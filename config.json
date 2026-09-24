@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Mason's Photo Gallery",
+  "title": "Ruder Cup 2026 Photo Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
